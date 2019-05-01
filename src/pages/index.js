@@ -31,6 +31,10 @@ const IndexPage = () => (
         </a>{" "}
         for in-console reporting of accessibility errors in the DOM.
       </li>
+      <li>
+        A <a href="/storybook">Storybook</a> with accessibility testing and
+        color blindness simulation tools built in.
+      </li>
     </ul>
     <Link to="/page-2/">Go to page 2</Link>
   </Layout>
