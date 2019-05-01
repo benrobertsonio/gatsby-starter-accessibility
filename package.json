@@ -61,5 +61,15 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/benjamingrobertson/gatsby-starter-accessibility"
+  },
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged"
+    }
+  },
+  "lint-staged": {
+    "*.js": [
+      "eslint"
+    ]
   }
 }
