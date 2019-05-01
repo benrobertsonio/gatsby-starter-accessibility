@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "gatsby-starter-accessibility",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "A simple starter to get up and developing accessible websites with Gatsby",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Ben Robertson <hi@benrobertson.io>",
   "dependencies": {
     "gatsby": "^2.3.16",
     "gatsby-image": "^2.0.37",
