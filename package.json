@@ -5,7 +5,7 @@
   "version": "0.1.0",
   "author": "Ben Robertson <hi@benrobertson.io>",
   "dependencies": {
-    "gatsby": "^2.3.16",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-react-axe": "^0.2.2",
     "gatsby-plugin-react-helmet": "^3.0.12",
     "prop-types": "^15.7.2",
